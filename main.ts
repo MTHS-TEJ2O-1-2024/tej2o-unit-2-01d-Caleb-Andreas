@@ -2,7 +2,7 @@
  *
  * Created by: Caleb Andreas
  * Created on: Sep 2024
- * This program says "Hello, World!"
+ * This program says "Hello, Caleb!"
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Caleb!')
